@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>config/img/icon.png</file>
+        <file>config/img/close_btn.png</file>
+        <file>config/img/max_btn.png</file>
+        <file>config/img/min_btn.png</file>
+        <file>config/img/nomal_btn.png</file>
+    </qresource>
+</RCC>

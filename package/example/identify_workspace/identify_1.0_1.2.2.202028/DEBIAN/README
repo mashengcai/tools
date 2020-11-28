@@ -2,4 +2,4 @@
 ----------------------------
 dpkg-deb: 错误: 维护者的脚本 preinst 的权限位是 644 (必须 >=0555 且 <=0775)
 (1) chmod  0775   DEBIAN -R
-(2)dpkg -b   identify_1.0_1.2.2.202012  identify_1.0_1.2.2.202012.deb
+(2)dpkg -b   identify_1.0_1.2.2.202028  identify_1.0_1.2.2.202028.deb

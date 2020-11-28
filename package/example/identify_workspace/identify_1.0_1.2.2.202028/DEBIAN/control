@@ -1,0 +1,8 @@
+package: identify
+version: 1.0-1.2.2.202012
+architecture: amd64
+maintainer: free
+installed-Size: 76857
+section: unknown
+priority: optional
+description: identify  demo
