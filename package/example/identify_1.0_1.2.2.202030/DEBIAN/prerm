@@ -1,0 +1,3 @@
+#!/bin/bash
+#dpkg: 警告: 卸载 identify 时，目录 /var/log/log_identify 非空，因而不会删除该目录
+rm  -rf  "/var/log/log_identify"

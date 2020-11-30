@@ -1,0 +1,14 @@
+#Note1:2–8行是源代码包的控制信息
+Source: identify
+Section: unknown
+Priority: optional
+Maintainer: mashengcai <mashengcai@126.com>
+Build-Depends: debhelper (>=10)
+Standards-Version: 1.0.0
+Homepage: <insert the upstream URL, if relevant>
+#Note2:第9–13行是二进制包的控制信息
+Package: identify
+Architecture: amd64
+Version:1.0-1.2.2.202030
+Depends: 
+Description: AI recognition tool

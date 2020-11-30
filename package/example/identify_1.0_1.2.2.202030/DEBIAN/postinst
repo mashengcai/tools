@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ "$1" = "upgrade" ] || [ "$1" = "install" ];then
+  echo "install"
+fi
+
+chmod  755   "/opt/com.identify.msc/bin/app"
+
+touch  "/var/log/log_identify/identify.log"
+chmod  777  "/var/log/log_identify" -R

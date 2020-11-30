@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=System                               
+Comment=识别工具                                      
+Exec=/opt/com.identify.msc/bin/app                            
+Icon=/opt/com.identify.msc/usr/icons/icon.png                     
+Name=indentify                                   
+Name[zh_CN]=识别助手
+Terminal=false                                      
+Type=Application                           
+Encoding = UTF-8

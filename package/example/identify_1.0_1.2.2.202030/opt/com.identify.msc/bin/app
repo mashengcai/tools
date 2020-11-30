@@ -1,0 +1,4 @@
+#!/bin/bash
+debug_file="/var/log/log_identify/identify.log"
+echo  "["${0} $FUNCNAME  $LINENO   `date +"%Y-%m-%d %H:%M:%S"` "]"  "GuiWidget start" >> $debug_file
+/opt/com.identify.msc/usr/bin/GuiWidget
