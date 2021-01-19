@@ -12,7 +12,7 @@ GuiWidget::GuiWidget(QWidget *parent) :
 
     setWindowFlags(Qt::FramelessWindowHint);
     setWindowIcon(QIcon(":/icon/config/img/icon.png"));
-    setWindowTitle(QString::fromUtf8("天融信国产主机生存保障系统"));
+    setWindowTitle(QString::fromUtf8("AI系统"));
 
     QDesktopWidget* desktop = QApplication::desktop();
     int desktopWidth=desktop->width() ;
